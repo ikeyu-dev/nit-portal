@@ -1,0 +1,1066 @@
+{
+  "metadata": {
+    "count": 36,
+    "all_tab_count": 35,
+    "exported_at": "2026-04-09T11:10:29.585759"
+  },
+  "items": [
+    {
+      "id": 45,
+      "portal_notice_key": "1:b93b9896980a431b297f4584b3fa542a1f651a5d",
+      "title": "4月13日の授業について",
+      "sender": "船越　裕介",
+      "category": "【授業連絡】",
+      "body": "4月13日の授業は、Teamsのオンラインでガイダンスを実施します。 時間になったら、開いている会議に参加してください。 この授業はオンラインのため、これ以降、サポータルの掲示板は使用しません。 授業当日までにTeamsのチームコードを必ず登録してください。 配信ビデオや出欠の情報も、全てTeamsで連絡します。 承認が必要なので、実際に使用できるまでに多少時間がかかる可能性があります。",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T14:11:00",
+      "notice_ends_at": "2026-04-13T18:00:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "class",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:1:j_idt301",
+        "funcForm:tabArea:1:j_idt378:2:j_idt384",
+        "funcForm:tabArea:2:j_idt378:1:j_idt384",
+        "funcForm:tabArea:4:j_idt378:2:j_idt384",
+        "funcForm:tabArea:6:j_idt378:2:j_idt384"
+      ],
+      "content_hash": "92c022487b7fd30b5679088a18aaccc19b02c88b8c2d1a866c6c062d72ba1248",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 44,
+      "portal_notice_key": "1:4b17f12ada9e410a3cd48b2a5a4230e671065740",
+      "title": "NIT100円朝食のご案内",
+      "sender": "学生支援課",
+      "category": "【お知らせ】",
+      "body": "学生各位 NIT100円朝食が、春学期は4/9(木)からスタートします。 「学生のココロとカラダの健康」「生活・学習習慣の改善」 を目的として1日60食限定で、栄養満点・おいしい朝食が食べられます。 ぜひ、ご利用ください。 また、運営に役立てるため学生証カードリーダを設置していますので、ご協力ください。 ※100円朝食案内ページは こちら ----------------------------------------------------------------------------------------- 実施日：火～金曜日(※休日翌日、連休中、長期休暇中を除く) 時間：8時00分～9時00分 場所：レストランアルテリーベ(LCセンター1階) 料金：100円／1食(100円硬貨での支払いにご協力ください) ＊1日60食限定(1人1日1食まで) ＊実施日に関する詳細は、HPの実施カレンダーをご覧ください ----------------------------------------------------------------------------------------- 100円朝食は、みらい募金・後援会の方々のご支援により運営されています。",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T10:34:00",
+      "notice_ends_at": "2026-05-08T10:34:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:1:j_idt301",
+        "funcForm:tabArea:1:j_idt378:3:j_idt384",
+        "funcForm:tabArea:4:j_idt378:3:j_idt384",
+        "funcForm:tabArea:6:j_idt378:3:j_idt384"
+      ],
+      "content_hash": "cd61c79071a3f0b88f81097392e5ac8bbf1c7c036d2e5ea854262db169ed7542",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 43,
+      "portal_notice_key": "1:f69f41aa04d77f1e458ce7c02e24102401248650",
+      "title": "【◆申請手続き方法◆日本学生支援機構奨学金（貸与型/給付型/多子世帯）在学採用申込みについて】",
+      "sender": "学生支援課（奨学金係）",
+      "category": "【お知らせ】",
+      "body": "日本学生支援機構奨学金（貸与型／給付型／多子世帯支援）を、学部生が新たに申込みする、または既に奨学生で追加申込みする手続きについてのご案内です。以下の内容に沿って申請を行ってください。 ※大学院生の予約採用、在学採用、および高校で申込み済みの予約採用（学部生）の手続きについては、別途サポータル掲示をご確認ください。 ■申請の前に ・留学生（永住者、定住者、家族滞在を除く）および留年した学生は、申込みできません。 ・奨学金の要件や制度詳細については、 日本学生支援機構のHP をご確認ください。 ・日本学生支援機構のサイトから、貸与総額や返済する金額、返済完了となる時期等を 試算 することができます。 ・日本学生支援機構のサイトから、進学後に必要となる資金計画の シミュレーション をすることができます。 ■申請の流れ こちら を参照してください。 ■申請期日について 上記申請の流れ『7．大学指定の方法で、申請データを提出する』の提出期限は以下の通りです。 提出期限：2026年5月8日（金）17：00 奨学金の申請は、生計維持者や保証人など、自分以外の方に相談・情報提供を依頼し整える必要があり、自分だけで完結しない手続きです。また、提出内容に不備があった場合には再提出が必要です。余裕をもって早めに準備をしてください。 ■手順1．「奨学金確認書兼地方税同意書」を学生支援課で受取る 上記書類は封書での配布となります。学生支援課（本館１F）で受け取ってください。 ■手順２．奨学金の制度別説明動画、申請手順動画を視聴する 以下のリンクから動画を視聴してください。 ○ 給付奨学金制度（多子世帯支援を含む）の説明動画 ○ 貸与奨学金制度の説明動画 ○ 具体的な手続き方法の説明動画 ※給付奨学金（多子世帯支援を含む）、貸与奨学金制度、いずれも共通 ■手順３．日本工大サポータルから申請に必要な資料・様式のファイルをダウンロードする 添付「JASSO奨学金_2026年度春在学採用申請ファイル一式.zip」 （申請に必要な資料や様式が1つにまとめられたファイル（圧縮ファイル）となっています。 JASSOの奨学金案内は以下のリンクからダウンロードしてください。 ○ 2026年度給付奨学金案内 ○ 2026年度貸与奨学金案内（大学等） ○ 2026年度奨学金案内ダイジェスト（大学等） 以降の手順や提出期限等の詳細については、上記『具体的な手続き方法の説明動画』をご覧ください。 ■多子世帯支援の申請について 令和７年度より制度施行された「多子世帯支援」の制度詳細については、＜ こちら ＞でご確認ください。 ※申請するためには、「進級している」「一定の単位を修得している（１学年終了時：３１単位以上、２学年終了時：６２単位以上）」の条件を満たしている必要があります。 ※既に給付奨学生として採用されている学生は、申請は不要です。 ■奨学金申請に関する問い合わせフォーム 奨学金申請に関わる不明点が発生した場合は、問い合わせフォームからご連絡ください。 ※問い合わせフォームは添付「「奨学金専用問い合わせフォーム」へのアクセス方法.pdf」をご確認ください。 ※制度や手順については説明動画を視聴し、各種資料を確認したうえで、それでも不明点等がある場合にご連絡ください。 ※問い合わせに対する回答は、特別な場合を除きサポータルの個別メッセージよりご連絡します。新着メッセージをこまめに確認してください。 ※問い合わせに対する回答には数日要する場合がありますので、早めにご連絡ください。 【お問合せ先】 学生支援課 電話：0480-33-7508、メール：gakuseika@nit.ac.jp",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T00:00:00",
+      "notice_ends_at": "2026-05-31T23:59:00",
+      "is_new": true,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new",
+        "important"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:4:j_idt301",
+        "funcForm:tabArea:1:j_idt378:8:j_idt384",
+        "funcForm:tabArea:4:j_idt378:8:j_idt384",
+        "funcForm:tabArea:6:j_idt378:8:j_idt384",
+        "funcForm:tabArea:7:j_idt378:2:j_idt384"
+      ],
+      "content_hash": "772f0d86bac8b47eb6e899f6801b4231fda0b8a6168e14fb8e3ce554ce070e1e",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 42,
+      "portal_notice_key": "1:dd82b3fb15f00837371303d178e5ae9dfbd9b3bf",
+      "title": "【就職支援課】 TOEICを受験しましょう！",
+      "sender": "就職支援課＆英語学習サポートセンター",
+      "category": "【就職支援課からのお知らせ】",
+      "body": "学部生ならびに大学院生の皆さん （本件の問い合わせは、英語学習サポートセンター (０４８０－３３－７４８５)にお願いします） 英語学習サポートセンターは、就職支援課のご協力を得て ２０２６年５月２３日（土）に 「TOEIC IP（団体受験）」 を実施いたします。 本学後援会のご支援もあり、個人受験よりも大変安い金額で受験できます。 さらに、６００点以上のスコアを取ると最大１０万円の奨励金ももらえます。 皆さん、この機会にTOEIC IPを受験し、就職活動に備えましょう。 試験日時：２０２６年５月２３日（土） １３：００～１３：３０集合 ※時間厳守。13：30までに入室しないと受験いただけません （試験時間：１４：００～１６：００） ※受験当日、日本工業大学、もしくは日本工業大学大学院に所属していることが必須になります。 受験料： 添付資料をご参照のうえ、受験料を納入してください。 初めての受験の方： ３，０００円 です。 その他の方：個別に 別途受験料をご連絡 します。 ※受験料無料の方も手続きが必要ですのでご注意ください。 入金（申込）期間： ２０２６年４月６日（月）～５月２日（土）１５：００ ※入金したら自動的にお申込みを行ったことになります。 ELSCのチームに参加していない人は、是非チームに参加してください。 Teams 多くの学生の受験をお待ちしています。 ――――――――――――――――――――――――――――――――――――――― お問い合わせ先: 英語学習サポートセンター（０４８０－３３－７４８５） もしくは TOEIC@nit.ac.jp -----------------------------------------------------------------------------------------------",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T09:00:00",
+      "notice_ends_at": "2026-05-03T00:00:00",
+      "is_new": true,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new",
+        "important"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:3:j_idt295:1:j_idt301",
+        "funcForm:tabArea:1:j_idt378:7:j_idt384",
+        "funcForm:tabArea:4:j_idt378:7:j_idt384",
+        "funcForm:tabArea:6:j_idt378:7:j_idt384",
+        "funcForm:tabArea:7:j_idt378:1:j_idt384"
+      ],
+      "content_hash": "7ff084abebc5c4a6f40859a02c65421383471fc22894fb68f6e24cbb01ce40d1",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 41,
+      "portal_notice_key": "1:2ad44d30c8396cff3a97b31608395aeaf454e7d8",
+      "title": "【２回目】TOEIC IP（２０２６．５月）受験料",
+      "sender": "就職支援課＆英語学習サポートセンター",
+      "category": "【就職支援課からのお知らせ】",
+      "body": "２０２６年５月２３日（土）のTOEIC IPに申し込み希望の皆さん 皆さんの受験料は ２，０００円 です。 納入期間： ４月６日（月）～５月２日（土） ※添付資料をよく確認のうえ、受験料の納入をお願いいたします。 入金すると自動的に申込を行ったことになりますので、 テスト約５日前（5/18予定）にサポータルにて試験要項が送られてくるまで、 しばらくお待ちください。 ※5/18を過ぎても試験要項がお手元に届かない場合には、必ずご連絡ください。 ～お問い合わせ先～ 英語学習サポートセンター 0480-33-7485（長嶋） TOEIC@nit.ac.jp",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T09:03:00",
+      "notice_ends_at": "2026-05-03T00:00:00",
+      "is_new": true,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new",
+        "important"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:3:j_idt295:0:j_idt301",
+        "funcForm:tabArea:1:j_idt378:6:j_idt384",
+        "funcForm:tabArea:4:j_idt378:6:j_idt384",
+        "funcForm:tabArea:6:j_idt378:6:j_idt384",
+        "funcForm:tabArea:7:j_idt378:0:j_idt384"
+      ],
+      "content_hash": "279e5c5c4488e362edf026f41c4c234a2d4d7489f90e429ff3f34013619f220b",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 40,
+      "portal_notice_key": "1:a970adb1fb669c87f466a35e578ebf9d9481be15",
+      "title": "新型コロナウイルス・インフルエンザ感染症の対応について",
+      "sender": "健康管理センター",
+      "category": "【お知らせ】",
+      "body": "学生の皆様 新型コロナウイルス・インフルエンザ感染症の対応について、 学校保健安全法の規定をふまえ、添付ファイルのとおりといたします。 ※欠席した授業については、 通常の授業と同様に、日本工大サポータルから「欠席理由書」をダウンロードし、 必要事項を記入のうえ、担当教員へ提出してください。 ※定期末試験については、 教務課が日本工大サポータルに掲示する「定期末試験実施要領」をご確認ください。 ------------------------------------------------------------------------------------------ 健康管理センター TEL:0480-33-7539 E-mail:kenkou-kanri@nit.ac.jp",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T10:34:00",
+      "notice_ends_at": "2026-09-19T00:00:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:2:j_idt301",
+        "funcForm:tabArea:1:j_idt378:4:j_idt384",
+        "funcForm:tabArea:4:j_idt378:4:j_idt384",
+        "funcForm:tabArea:6:j_idt378:4:j_idt384"
+      ],
+      "content_hash": "29ab39c102725aa99df83abf7712c87c06fd41317366537be528e17c82775523",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 39,
+      "portal_notice_key": "1:3b32a416629714210e6c1607dce9928320eed3fb",
+      "title": "献血実施のお知らせ(4月14日・15日・17日)",
+      "sender": "学生支援課",
+      "category": "【お知らせ】",
+      "body": "学生・教職員 各位 埼玉県赤十字血液センターからの要請を受けて、 学内(武道場前)にて、献血を実施します。 ------------------------------------------------------------------------------------------------------- 実施日：4月14日（火）・15日（水）・17日（金） 受付時間：10時30分～13時20分/14時40分～17時00分 実施会場：武道場前 ※ラブラッド会員の方は、添付の案内ポスターよりご予約が可能です。 ------------------------------------------------------------------------------------------------------- 輸血を必要とする多くの方のために、皆さまの献血が必要です。 尊い命を救うため、献血へのご理解とご協力をお願いいたします。",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T14:21:00",
+      "notice_ends_at": "2026-04-17T17:00:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:0:j_idt301",
+        "funcForm:tabArea:1:j_idt378:1:j_idt384",
+        "funcForm:tabArea:4:j_idt378:1:j_idt384",
+        "funcForm:tabArea:6:j_idt378:1:j_idt384"
+      ],
+      "content_hash": "a3a2e1e58b5bed66203f17e5b095cbe24efa59a52cebc2aa6bb68f3d7eb5fcef",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 38,
+      "portal_notice_key": "1:13528972089e7964ec76642145ed9071b31b6680",
+      "title": "第1週（4月9日）の授業について",
+      "sender": "船越　裕介",
+      "category": "【授業連絡】",
+      "body": "第1週（4月9日）の授業はガイダンスを行います。 今週に限り、2限に開始します （1限に来ても誰もいません）。",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T14:28:00",
+      "notice_ends_at": "2026-04-09T18:00:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "class",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:0:j_idt301",
+        "funcForm:tabArea:1:j_idt378:0:j_idt384",
+        "funcForm:tabArea:2:j_idt378:0:j_idt384",
+        "funcForm:tabArea:4:j_idt378:0:j_idt384",
+        "funcForm:tabArea:6:j_idt378:0:j_idt384"
+      ],
+      "content_hash": "b8ca6c119829005b59f79072389222762912e212cd38769c638a2021dfcdfaa4",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 37,
+      "portal_notice_key": "1:8688d59abf8aac6ab3d33ae7042ddcbcdfef7824",
+      "title": "限定50名！ TOEIC学習eラーニングのご案内",
+      "sender": "英語学習サポートセンター",
+      "category": "【お知らせ】",
+      "body": "英語学習サポートセンター（ELSC）では、皆さんのTOEIC学習をサポートするため、 以下のプログラム（限定５０名）をご用意しました。 ★オンライン自主学習アプリ「ALC Net Academy PLUS」★ お申込いただくと、６カ月間、無料でご利用いただけます！ TOEIC IP（団体受験）に向け、今から学習を始めて、スコアの大幅アップを目指しましょう！ ＜Net Academy PLUSの特長＞ １）TOEIC関連の書籍や研修で数多くの実績があるアルクのノウハウが満載！ ２）５段階の学習で、TOEIC対策をしつつ、英語力もアップ！ ３）ポイントを絞った「狙い ⽬」を徹底解説！ 効率のよいスコアアップを ⽬指せます ４）本番さながらの模擬試験。予想スコアや弱点問題タイプ診断などもあり。 【申込期間】 ２０２６年４月６日（月）～４月２３日（木）２３：５９ 【申込方法】 ①まずは案内ビデオをご覧ください。 ※ 案内ビデオはこちら ② こちらのリンク 、もしくは添付資料内にあるQRコードから申込フォーム入力 50名限定となっておりますので、お早目にお申込みください。 ※50名を超えた申込があった場合、ご利用いただけない方には後日ご連絡させていただきます。 【利用開始予定日】 ５月２日（土） ～お問い合わせ先～ 英語学習サポートセンター 0480-33-7485 TOEIC@nit.ac.jp",
+      "published_on": "2026-04-06",
+      "notice_starts_at": "2026-04-06T09:04:00",
+      "notice_ends_at": "2026-04-30T00:00:00",
+      "is_new": true,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read",
+        "new"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:3:j_idt301",
+        "funcForm:tabArea:1:j_idt378:5:j_idt384",
+        "funcForm:tabArea:4:j_idt378:5:j_idt384",
+        "funcForm:tabArea:6:j_idt378:5:j_idt384"
+      ],
+      "content_hash": "6dcf5e117b819b26f7ccdf88c2f63e0d021763fdedeacacd72812fb90ae7859a",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 49,
+      "portal_notice_key": "1:b09ad6b29ddd8815729caab7496f5869fd6829f7",
+      "title": "[自動配信]授業資料管理（授業資料作成）",
+      "sender": "船越　裕介",
+      "category": "授業資料管理（授業資料作成）",
+      "body": "下記の授業資料が登録または更新されました。 授業名:データサイエンス基礎数理 授業資料名:授業の実施方法について 更新者:船越 裕介 更新日時:2026/04/02 10:52",
+      "published_on": "2026-04-03",
+      "notice_starts_at": "2026-04-03T00:00:00",
+      "notice_ends_at": "2026-04-13T00:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": true,
+      "source_tab_labels": [
+        "group",
+        "class"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:9:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:8:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:7:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:6:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:5:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:4:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:3:j_idt301",
+        "funcForm:tabArea:0:j_idt238:2:j_idt295:2:j_idt301",
+        "funcForm:tabArea:2:j_idt378:2:j_idt384",
+        "funcForm:tabArea:2:j_idt378:3:j_idt384",
+        "funcForm:tabArea:2:j_idt378:4:j_idt384",
+        "funcForm:tabArea:2:j_idt378:5:j_idt384",
+        "funcForm:tabArea:2:j_idt378:6:j_idt384",
+        "funcForm:tabArea:2:j_idt378:7:j_idt384",
+        "funcForm:tabArea:2:j_idt378:8:j_idt384",
+        "funcForm:tabArea:2:j_idt378:9:j_idt384",
+        "funcForm:tabArea:2:j_idt378:10:j_idt384",
+        "funcForm:tabArea:2:j_idt378:11:j_idt384",
+        "funcForm:tabArea:2:j_idt378:12:j_idt384",
+        "funcForm:tabArea:2:j_idt378:13:j_idt384",
+        "funcForm:tabArea:2:j_idt378:14:j_idt384"
+      ],
+      "content_hash": "e913de80323e10bf9696dfc9a331833b6373376f82378237fc442e3ffb403c50",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 48,
+      "portal_notice_key": "1:ea743d367b87f3a972e7c43061e31345a7157700",
+      "title": "【英語】2026年度 春学期 I科・D科 英語セメスター科目クラス名簿（重要）",
+      "sender": "英語教員",
+      "category": null,
+      "body": null,
+      "published_on": "2026-04-03",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all",
+        "read",
+        "important"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:10:j_idt384",
+        "funcForm:tabArea:4:j_idt378:10:j_idt384",
+        "funcForm:tabArea:7:j_idt378:3:j_idt384"
+      ],
+      "content_hash": "d691e90e3a410fdacf0d4b9aaa0f95417b69dec6c3c0f939ba1a2e4c9d519624",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 47,
+      "portal_notice_key": "1:63c66d09a9efcba51463527c6d9e00367bae617b",
+      "title": "共通教育科目 説明会（２年生）資料",
+      "sender": "共通教育学群",
+      "category": "【お知らせ】",
+      "body": "２年生の皆さん 3月下旬の共通教育科目説明で使われた資料を見直しましょう。 この画面左下の「添付資料を確認」を押して資料を開き、履修登録の参考にしてください。 共通教育科目に関する 質問受付コーナー も活用しましょう。 【日時】 4月6日（月）14:00～16:00 【場所】 3号館 226教室 共通教育学群 髙岡邦行 takaoka.kuniyuki@nit.ac.jp 吉田 要 yoshida.kaname@nit.ac.jp",
+      "published_on": "2026-04-03",
+      "notice_starts_at": "2026-04-03T00:00:00",
+      "notice_ends_at": "2026-05-02T23:59:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:6:j_idt301",
+        "funcForm:tabArea:1:j_idt378:11:j_idt384",
+        "funcForm:tabArea:4:j_idt378:11:j_idt384"
+      ],
+      "content_hash": "eed41a226440ebe0dc9819c8051cb374df68b7a4c398bd27b85c409ec82b169e",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 46,
+      "portal_notice_key": "1:3daf5b4c6d7ce69268a76b01c81bfc5a78bacc2f",
+      "title": "集中講義「海外英語セミナー」報告会",
+      "sender": "一瀬　厚一",
+      "category": "【お知らせ】",
+      "body": "学生の皆さん 秋学期集中講義である「海外英語セミナー」の報告会を行います。 本講義に参加した学生は２月～３月の１か月に渡り、カナダのバンクーバーにあるブリティッシュコロンビア大学の英語研修所で英語を学修してきました。 ホームステイでの生活を行い、カナダの文化に接して分かったこと・感じたことを参加学生が報告してくれます。 留学や海外に興味のある方はぜひ聞きに来てください。日時と場所は以下の通りです。 日時：4/7（火）14時～ 場所：5号館1階スチューデントプラザ（ホールのようなところです） 以上です。皆さんの見学をお待ちしています。",
+      "published_on": "2026-04-03",
+      "notice_starts_at": "2026-04-03T18:00:00",
+      "notice_ends_at": "2026-04-14T16:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:0:j_idt295:5:j_idt301",
+        "funcForm:tabArea:1:j_idt378:9:j_idt384",
+        "funcForm:tabArea:4:j_idt378:9:j_idt384"
+      ],
+      "content_hash": "42691d0c0ddd55ed2f249547c3f72e1da684f030161238775d39eb95eba3e2ed",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 53,
+      "portal_notice_key": "1:87846d47a07c4e01e178e0a7966b9bdb24a479ac",
+      "title": "2026「遠隔授業」の手引きの配信について",
+      "sender": "教務課",
+      "category": "【遠隔授業に関するお知らせ】",
+      "body": "学生の皆さんへ 2026「遠隔授業」の手引きを配信します。 学期の最後まで用いる資料となりますので、必ずご確認ください。 ※使用するソフトウェアのバージョンにより、アイコンなどの表示が異なる場合があります。 【配信資料】 ◆【学生用】2026「遠隔授業」の手引き 遠隔授業で用いるTeamsや日本工大サポータルの利用方法について記載しています。 また、遠隔授業で使用する便利なツールも紹介していますので、併せて参照してください。 ◆メールの書き方・マナーについて 授業担当教員からの指示がない限りは、Teamsのチャットの利用を原則禁止とします。 また、授業に関する質問等の際には、必ず大学のメールアドレス（Microsoft365のOutlook）を利用し、メールのマナーは十分留意してください。",
+      "published_on": "2026-04-02",
+      "notice_starts_at": "2026-04-02T21:32:00",
+      "notice_ends_at": "2026-09-01T00:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:1:j_idt295:1:j_idt301",
+        "funcForm:tabArea:1:j_idt378:13:j_idt384",
+        "funcForm:tabArea:4:j_idt378:13:j_idt384"
+      ],
+      "content_hash": "2e85955cba8edf63a59d9c7bb5d0fea9cff09ecf798d2a511406606ccafb8ad9",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 52,
+      "portal_notice_key": "1:cf159d4935d47c0009ae2f61f116eefede9aef51",
+      "title": "2026春_ 遠隔授業実施方法一覧の配信について",
+      "sender": "教務課",
+      "category": "【遠隔授業に関するお知らせ】",
+      "body": "学生の皆さんへ 2026度春学期は、大学のキャンパスへ登校し授業を受講する「対面授業」と、インターネットを用いた「遠隔授業」を併用します。 添付のExcelファイル「遠隔授業実施方法一覧」に「遠隔授業」受講上の注意点ならびに【Teamsを用いる授業】の授業チームへの参加方法が掲載されています。",
+      "published_on": "2026-04-02",
+      "notice_starts_at": "2026-04-02T21:30:00",
+      "notice_ends_at": "2026-09-01T00:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:1:j_idt295:2:j_idt301",
+        "funcForm:tabArea:1:j_idt378:14:j_idt384",
+        "funcForm:tabArea:4:j_idt378:14:j_idt384"
+      ],
+      "content_hash": "b90e547fbff48ac7267ae9db30d370493feaa205ed57b4bf6d414a56cbcefdc4",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 51,
+      "portal_notice_key": "1:48e12574d961a3b7f7d049510deb90927dc2c746",
+      "title": "【Teams】授業チーム参加方法について",
+      "sender": "教務課",
+      "category": "【遠隔授業に関するお知らせ】",
+      "body": "学生の皆さんへ 2026年度春学期の授業では、対面授業や遠隔授業にかかわらず、Teamsを使用する場合があります。 Teamsの授業チーム参加方法は、「学生が各授業チームのチームコードを入力して参加する」となります。 詳細につきましては添付ファイルをご確認ください。 なお、まだ「授業資料」に授業のチームコードが掲載されていない場合は、授業開始直前に改めてご確認ください。",
+      "published_on": "2026-04-02",
+      "notice_starts_at": "2026-04-02T21:34:00",
+      "notice_ends_at": "2026-09-01T00:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all",
+        "read"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:1:j_idt295:0:j_idt301",
+        "funcForm:tabArea:1:j_idt378:12:j_idt384",
+        "funcForm:tabArea:4:j_idt378:12:j_idt384"
+      ],
+      "content_hash": "3f454ba15e42e6f7f57951cf3ff81aa35dac002584bdf089bff4295aa3b693da",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 50,
+      "portal_notice_key": "1:e598b4f9f98086ad7f88cd7a04a8b2553491b9b0",
+      "title": "フィジカルコンピューティング工房ⅠおよびⅢのガイダンスについて（4/7 Teamsのコードを追加しました）",
+      "sender": "新井　啓之",
+      "category": null,
+      "body": null,
+      "published_on": "2026-04-02",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:15:j_idt384"
+      ],
+      "content_hash": "e45f3e67363239255d85954d195f73450a6751b08378bdc2239d633cc519cc2c",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 56,
+      "portal_notice_key": "1:9b46d5a901858e8a9185c6a333b1f01b54bde0bb",
+      "title": "【履修登録】科目の振替について（2019～2025入学生）",
+      "sender": "教務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-04-01",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:16:j_idt384"
+      ],
+      "content_hash": "191b667ccda1d436fb29ad499f8f45cfb651f9983c5ffd3c2739e70d3d4ec0a2",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 55,
+      "portal_notice_key": "1:e130973623a285a84653a2d5b05b97e473f563c4",
+      "title": "【重要】学生アルバイトの採用手続きが変わります（お知らせ）",
+      "sender": "総務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-04-01",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "important",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:7:j_idt378:5:j_idt384",
+        "funcForm:tabArea:1:j_idt378:18:j_idt384"
+      ],
+      "content_hash": "58dcebfff8e48bdd80c5c52050cbae81ae84e025e2eee9f37df0ea389d9d5841",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 54,
+      "portal_notice_key": "1:cf88028a5003a76555dd6f71d053052df74f3302",
+      "title": "【重要】履修申告について",
+      "sender": "教務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-04-01",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "important",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:7:j_idt378:4:j_idt384",
+        "funcForm:tabArea:1:j_idt378:17:j_idt384"
+      ],
+      "content_hash": "61e6e7a13440dcdd37f55ea3a29e8ab07ca405d27aa4467ad5e0e8550100fd76",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 57,
+      "portal_notice_key": "1:ec9922ecbc001b4b75740652c638b8c11de6ed29",
+      "title": "スクールバスご利用の皆様へ",
+      "sender": "学生支援課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-30",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:19:j_idt384"
+      ],
+      "content_hash": "9082bc1c22f766602751de6c90fc4e5e758f1685791236525d1f3eadb75e969f",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 59,
+      "portal_notice_key": "1:69b54306485190c39401ae34ea5dbaace12ddcbc",
+      "title": "文部科学省「学生向けメッセージ」のお知らせ",
+      "sender": "学生支援課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-27",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:20:j_idt384"
+      ],
+      "content_hash": "8a483cfa60dd1ab1d97b05d04a05fe7ba14537c0d6b37498396e51378d7bef7d",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 58,
+      "portal_notice_key": "1:827b2da8918aaa9f666a8db4ecf0f69c0163e5ac",
+      "title": "文部科学省「新入学生及び成年となる学生に対する消費者問題」についてのお知らせ",
+      "sender": "学生支援課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-27",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:21:j_idt384"
+      ],
+      "content_hash": "b52bef8058c9b7f9e13aa8949ed4637f9cec636915e0f993f54d17cce3ee8a0c",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 60,
+      "portal_notice_key": "1:a32332ded140b9bb2b4deb0da429be2bf26c71e5",
+      "title": "【日本学生支援機構 奨学金(貸与型/給付型/多子世帯支援)在学採用申込みについて】",
+      "sender": "学生支援課（奨学金係）",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-25",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:22:j_idt384"
+      ],
+      "content_hash": "7f38263803a5068a28336edafa8c1d9785d83fb6a9603230e82cf240b2bc7018",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 61,
+      "portal_notice_key": "1:ca10382f3d5088fcdfbe930e44eac5f842157cec",
+      "title": "2026年度春学期の時間割表について",
+      "sender": "教務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-24",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:23:j_idt384"
+      ],
+      "content_hash": "204a2f3bcde8027f6ad2da5376e25c00102ff28ea4de91cfaf5e5d16136adc0e",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 62,
+      "portal_notice_key": "1:0d170372975312e3eee2123059d6833f1e63aadc",
+      "title": "地域活動演習I～IV（共通教育・社会連携）",
+      "sender": "佐々木 誠：建築学科／地域連携センター",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-23",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "important",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:7:j_idt378:6:j_idt384",
+        "funcForm:tabArea:1:j_idt378:24:j_idt384"
+      ],
+      "content_hash": "e156d29be92995d2e3e52bd4556daef8348913844f57212504312c6d642d4302",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 64,
+      "portal_notice_key": "1:5a53c87b18baa5d6f082bba5ea583c13d5798c7d",
+      "title": "LCセンター（図書館）：1・2階をリニューアルしました",
+      "sender": "LCセンター事務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-19",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:26:j_idt384"
+      ],
+      "content_hash": "93e541b5a03382a807daaf803b532aa67b492ebe6191b289c5ebac3e9cf538c8",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 63,
+      "portal_notice_key": "1:bbf45d4ecdddcb92b9f5d19d7ca11ae8d8bb0b63",
+      "title": "LCセンター（図書館）：ライブラリーサポーター募集のお知らせ",
+      "sender": "LCセンター事務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-19",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:25:j_idt384"
+      ],
+      "content_hash": "192f3a7ba06153036518f50f2e2f445669424cb5d96bbd1173de5f280d2dc025",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 65,
+      "portal_notice_key": "1:0882e1b6ac8febb6ba8a1ced178ee3830012eadd",
+      "title": "春の全国交通安全運動に関する文部科学省からのお知らせ",
+      "sender": "学生支援課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-11",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:27:j_idt384"
+      ],
+      "content_hash": "8a5862d108ad9b1890e6dce6061b21b16358a9f420fed26fc89871f62dcb0324",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 66,
+      "portal_notice_key": "1:fa1e480e207f80a93ab60e4b9a7ac3182e2e55a3",
+      "title": "2026年度春学期学費等納入および延納手続期限について",
+      "sender": "財務部財務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-09",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "important",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:7:j_idt378:7:j_idt384",
+        "funcForm:tabArea:1:j_idt378:28:j_idt384"
+      ],
+      "content_hash": "357e3e905313d4ff74e54eb11303bfe22261a28ffcaed110dce6ca10adaea433",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 68,
+      "portal_notice_key": "1:e012af5413a114bae121667917472ceb79b513fd",
+      "title": "2026年度：海外留学説明会（マルタ、インド、セブ留学プログラム）",
+      "sender": "英語学習サポートセンター",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-03",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:29:j_idt384"
+      ],
+      "content_hash": "f837938fad6b886f2e4729e0d7fbc558c49f9db156e19b51ca44745ff4b4f602",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 67,
+      "portal_notice_key": "1:0937b16e7eb89bf46bb23ca6d3a99969578251a6",
+      "title": "【再掲】2026年度春学期説明会等日程表について",
+      "sender": "教務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-03-03",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": true,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "important",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:7:j_idt378:8:j_idt384",
+        "funcForm:tabArea:1:j_idt378:30:j_idt384"
+      ],
+      "content_hash": "f8cd897e491d2cab3592a2488f7e76ad1a9a6a813c5534ce5f73f7f6503e4cec",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 69,
+      "portal_notice_key": "1:230d71212a98082a3d5be56ea05742a5f198b107",
+      "title": "【クォータ】数学・物理・英語クォータ科目に関するSharepointの情報について",
+      "sender": "共通教育学群　クォータ運営室",
+      "category": null,
+      "body": null,
+      "published_on": "2026-02-20",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:31:j_idt384"
+      ],
+      "content_hash": "58110942260da4f8e770cdb92ebf281e70c3d8d28257399d5f403dedca00cefb",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 70,
+      "portal_notice_key": "1:deedf683b7ea575b3e1d6f0cfbb44fd1dcee1e78",
+      "title": "◆重要◆【先進工学部2年生対象】全員面談のスケジュールが決定しました。",
+      "sender": "就職支援課",
+      "category": "【就職支援課からのお知らせ】",
+      "body": "先進工学部2年生の皆さんへ こんにちは。就職支援課です。 3月～6月に実施する「全員面談※」のスケジュールが決定しました。 添付のスケジュール表から、ご自身の学籍番号を探して、面談日時をご確認ください。 このお知らせを受け取っている方、全員が対象となります。 開催時期は、先日のアンケートにて2-3月を希望した方は3月に、それ以外の方は4-6月に設定されています。 授業が最優先となりますので、ご都合の合わない方は日程変更をお願いいたします。 スケジュール表のページは担当者ごとに分かれていますのでご注意ください。 もしスケジュール表で学籍番号が見つからない場合は、以下の方法でも実施日を確認できます。 サポータルの「リンク集」→求人検索NAVIにログイン→「個人（グループ）面談予約」→「予約した個人面談を確認する」 ※全員面談とは？ 就職支援課職員（学部担当者）と、皆さんとの個人面談（目安：一人15分間）のこと。 学部担当者と皆さんとの顔合わせを行い、卒業後の進路（就職・教員・進学・その他）や 希望の進路に向けた今後の進め方等について簡単にお話しします。 ご自身の学籍番号が見当たらない方、空いている枠以外の日時で面談をしたい方は、 就職支援課までご連絡ください。",
+      "published_on": "2026-01-30",
+      "notice_starts_at": "2026-01-30T15:08:00",
+      "notice_ends_at": "2026-06-30T00:00:00",
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "group",
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:0:j_idt238:3:j_idt295:2:j_idt301",
+        "funcForm:tabArea:1:j_idt378:32:j_idt384"
+      ],
+      "content_hash": "425a8ee0e6f636a719062707278abb458323fce35dc8f088c242fb45dfddb553",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 71,
+      "portal_notice_key": "1:c789ffc26f45a8e0abb8e63889d5865cb95359be",
+      "title": "春休み期間中のLCセンター（図書館）のサービスおよび学外利用可能な電子資料について（お知らせ）",
+      "sender": "LCセンター事務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-01-20",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:33:j_idt384"
+      ],
+      "content_hash": "f6ecfe1684f1631ada69507380634cfc54500f5b4956013310ea4a4689ffc410",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    },
+    {
+      "id": 72,
+      "portal_notice_key": "1:35245ce76b2b7abce74dc139900944c40cfb388f",
+      "title": "【予告】学修に関する説明・相談会（学修指導）の開催について（3/9・10）",
+      "sender": "教務課",
+      "category": null,
+      "body": null,
+      "published_on": "2026-01-19",
+      "notice_starts_at": null,
+      "notice_ends_at": null,
+      "is_new": false,
+      "is_important": false,
+      "is_flagged": true,
+      "is_read": false,
+      "source_tab_labels": [
+        "all"
+      ],
+      "detail_link_ids": [
+        "funcForm:tabArea:1:j_idt378:34:j_idt384"
+      ],
+      "content_hash": "aebb8280c868a099c07ba2d8aaa4d87f0f708075fbcab46aa91af2575cb2766e",
+      "first_seen_at": "2026-04-07T22:54:47.476012",
+      "content_updated_at": "2026-04-07T22:54:47.476012",
+      "last_synced_at": "2026-04-07T22:54:47.476012",
+      "last_seen_at": "2026-04-07T22:54:47.476012"
+    }
+  ]
+}
