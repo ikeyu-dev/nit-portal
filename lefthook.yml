@@ -1,0 +1,10 @@
+pre-commit:
+  parallel: true
+  commands:
+    test:
+      run: npm test
+
+pre-push:
+  commands:
+    build:
+      run: npm run build
